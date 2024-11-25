@@ -2,9 +2,12 @@
     "cSpell.words": [
         "dbname",
         "Debargha",
+        "gomail",
         "gonic",
         "gorm",
         "healthchecker",
-        "sslmode"
+        "randstr",
+        "sslmode",
+        "verifyemail"
     ]
 }
